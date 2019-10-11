@@ -1,0 +1,590 @@
+Message-ID: <1895716841.581.1570758030704.JavaMail.confluence1@bogon>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_580_1361886239.1570758030622"
+
+------=_Part_580_1361886239.1570758030622
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Eureka =E4=BD=BF=E7=94=A8=E9=85=8D=E7=BD=AE=E5=88=86=E4=BA=AB</t=
+itle>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Eureka =E4=BD=BF=E7=94=A8=E9=85=8D=E7=BD=AE=E5=88=86=E4=BA=AB</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E7=89=88=E6=9C=AC</th>
+<th class=3D"confluenceTh">=E7=BC=96=E8=BE=91=E4=BA=BA</th>
+<th class=3D"confluenceTh">=E6=9B=B4=E6=96=B0=E6=97=A5=E6=9C=9F</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">1.0.0</td>
+<td class=3D"confluenceTd">=E5=B9=B3=E5=8F=B0=E7=A0=94=E5=8F=91=E4=B8=AD=E5=
+=BF=83-Allen</td>
+<td class=3D"confluenceTd">2019.07.16</td>
+<td class=3D"confluenceTd">=E5=AE=9A=E4=B9=89Eureka=E6=9C=8D=E5=8A=A1=E7=AB=
+=AF=EF=BC=88=E5=8D=95=E4=BD=93/=E9=9B=86=E7=BE=A4=EF=BC=89=E7=9A=84=E5=9F=
+=BA=E7=A1=80=E9=85=8D=E7=BD=AE=EF=BC=8C=E4=BD=BF=E7=94=A8Eureka=E8=BF=87=E7=
+=A8=8B=E4=B8=AD=E9=81=87=E5=88=B0=E7=9A=84=E9=97=AE=E9=A2=98=E4=BB=A5=E5=8F=
+=8A=E4=BC=98=E5=8C=96=E6=96=B9=E6=B3=95</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"Eureka=E4=BD=BF=E7=94=A8=E9=85=8D=E7=BD=AE=E5=88=86=E4=BA=AB-=E4=
+=B8=80.=E6=9C=8D=E5=8A=A1=E7=AB=AF=E5=9F=BA=E7=A1=80=E9=85=8D=E7=BD=AE">=E4=
+=B8=80.=E6=9C=8D=E5=8A=A1=E7=AB=AF=E5=9F=BA=E7=A1=80=E9=85=8D=E7=BD=AE</h3>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: RDark" data-theme=3D"RDark">eureka:
+  server:
+
+    # =3D=3D=3D=3D=3D=3D=3D =E5=9F=BA=E7=A1=80=E9=85=8D=E7=BD=AE =3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3Dresponse-cache-auto-expiration-in-seconds
+    #=E5=BC=80=E5=90=AF=E8=87=AA=E6=88=91=E4=BF=9D=E6=8A=A4=E6=A8=A1=E5=BC=
+=8F=EF=BC=9A=E9=BB=98=E8=AE=A4=E5=BC=80=E5=90=AF
+    enable-self-preservation: true
+
+    #=E6=AF=8F=E5=88=86=E9=92=9F=E9=9C=80=E8=A6=81=E6=94=B6=E5=88=B0=E7=9A=
+=84=E7=BB=AD=E7=BA=A6=E6=AC=A1=E6=95=B0=E7=9A=84=E9=98=88=E5=80=BC server=
+=E4=BC=9A=E6=A0=B9=E6=8D=AE=E6=9F=90=E4=B8=AA=E5=BA=94=E7=94=A8=E6=B3=A8=E5=
+=86=8C=E6=97=B6=E5=AE=9E=E4=BE=8B=E6=95=B0=EF=BC=8C=E8=AE=A1=E7=AE=97=E6=AF=
+=8F=E5=88=86=E9=92=9F=E5=BA=94=E6=94=B6=E5=88=B0=E7=9A=84=E7=BB=AD=E7=BA=A6=
+=E6=AC=A1=E6=95=B0
+    #=E8=8B=A5=E6=94=B6=E5=88=B0=E7=9A=84=E6=AC=A1=E6=95=B0=E5=B0=91=E4=BA=
+=8E=E8=AF=A5=E9=98=88=E5=80=BC=EF=BC=8Cserver=E4=BC=9A=E5=85=B3=E9=97=AD=E8=
+=AF=A5=E7=A7=9F=E7=BA=A6=EF=BC=8C=E5=B9=B6=E7=A6=81=E6=AD=A2=E5=AE=9A=E6=97=
+=B6=E4=BB=BB=E5=8A=A1=E5=89=94=E9=99=A4=E5=A4=B1=E6=95=88=E7=9A=84=E5=AE=9E=
+=E4=BE=8B=EF=BC=8C=E4=BF=9D=E6=8A=A4=E6=B3=A8=E5=86=8C=E4=BF=A1=E6=81=AF
+    renewal-percent-threshold: 0.85
+
+    #updateRenewalThreshold=E5=AE=9A=E6=97=B6=E4=BB=BB=E5=8A=A1=E7=9A=84=E8=
+=B0=83=E5=BA=A6=E9=A2=91=E7=8E=87=E9=BB=98=E8=AE=A4=E4=B8=BA=EF=BC=8C=E6=9D=
+=A5=E5=8A=A8=E6=80=81=E6=9B=B4=E6=96=B0expectedNumberOfRenewsPerMin=E5=92=
+=8CnumberOfRenewsPerMinThreshold=E5=80=BC
+    #=E5=A4=9A=E9=95=BF=E6=97=B6=E9=97=B4=E6=9B=B4=E6=96=B0=E7=BB=AD=E7=BA=
+=A6=E7=9A=84=E9=98=88=E5=80=BC
+    renewal-threshold-update-interval-ms: 900000
+
+    #EvictionTask=E5=AE=9A=E6=97=B6=E4=BB=BB=E5=8A=A1=E7=9A=84=E8=B0=83=E5=
+=BA=A6=E9=A2=91=E7=8E=87=EF=BC=8C=E7=94=A8=E4=BA=8E=E5=89=94=E9=99=A4=E8=BF=
+=87=E6=9C=9F=E7=9A=84=E5=AE=9E=E4=BE=8B=EF=BC=8C=E9=BB=98=E8=AE=A4=E6=98=AF=
+60=E7=A7=92=E6=89=A7=E8=A1=8C=E4=B8=80=E6=AC=A1
+    eviction-interval-timer-in-ms: 60000
+
+
+    ## =3D=3D=3D=3D=3D=3D=3D =E6=B3=A8=E5=86=8C=E7=BC=93=E5=AD=98=E7=9B=B8=
+=E5=85=B3=E9=85=8D=E7=BD=AE =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    #=E6=98=AF=E5=90=A6=E4=BD=BF=E7=94=A8=E5=8F=AA=E8=AF=BB=E7=9A=84respons=
+e-cache=EF=BC=8C=E9=BB=98=E8=AE=A4=E6=98=AF=E4=BD=BF=E7=94=A8
+    use-read-only-response-cache: true
+
+    #=E8=AE=BE=E7=BD=AECacheUpdateTask=E7=9A=84=E8=B0=83=E5=BA=A6=E6=97=B6=
+=E9=97=B4=E9=97=B4=E9=9A=94=EF=BC=8C=E7=94=A8=E4=BA=8E=E4=BB=8EreadWriteCac=
+heMap=E6=9B=B4=E6=96=B0=E6=95=B0=E6=8D=AE=E5=88=B0readOnlyCacheMap
+    #=E4=BB=85=E5=9C=A8use-read-only-response-cache=E8=AE=BE=E7=BD=AE=E4=B8=
+=BAtrue=E6=98=AF=E6=89=8D=E7=94=9F=E6=95=88
+    response-cache-update-interval-ms: 30000
+
+    #=E8=AE=BE=E7=BD=AEreadWriteCacheMap=E7=9A=84expireAfterWrite=E5=8F=82=
+=E6=95=B0=EF=BC=8C=E6=8C=87=E5=AE=9A=E5=86=99=E5=85=A5=E5=A4=9A=E9=95=BF=E6=
+=97=B6=E9=97=B4=E5=90=8Ecache=E8=BF=87=E6=9C=9F=E6=97=B6=E9=97=B4
+    response-cache-auto-expiration-in-seconds: 180
+
+    ##=3D=3D=3D=3D=3D=3D=3D=3D=3D =E6=9C=8D=E5=8A=A1=E9=9B=86=E7=BE=A4=E8=
+=8A=82=E7=82=B9=E6=95=B0=E6=8D=AE=E5=90=8C=E6=AD=A5=E7=9A=84=E9=85=8D=E7=BD=
+=AE =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    #=E6=8C=87=E5=AE=9ApeerUpdateTask=E8=B0=83=E5=BA=A6=E7=9A=84=E6=97=B6=
+=E9=97=B4=E9=97=B4=E9=9A=94=EF=BC=8C=E7=94=A8=E4=BA=8E=E4=BB=8E=E9=85=8D=E7=
+=BD=AE=E6=96=87=E4=BB=B6=E5=88=B7=E6=96=B0peerEurekaNodes=E8=8A=82=E7=82=B9=
+=E4=B9=8B=E9=97=B4=E7=9A=84=E9=85=8D=E7=BD=AE=E4=BF=A1=E6=81=AF=EF=BC=88eur=
+eka.client.serviceUrl=E7=9B=B8=E5=85=B3=E7=9A=84zone=E7=9A=84=E9=85=8D=E7=
+=BD=AE=EF=BC=89
+    #=E9=BB=98=E8=AE=A410=E5=88=86=E9=92=9F
+    peer-eureka-nodes-update-interval-ms: 10
+
+    #=E6=8C=87=E5=AE=9A=E6=9B=B4=E6=96=B0peer node=E7=8A=B6=E6=80=81=E7=9A=
+=84=E6=97=B6=E9=97=B4=E9=97=B4=E9=9A=94=EF=BC=8C=E9=BB=98=E8=AE=A430=E7=A7=
+=92=E6=9B=B4=E6=96=B0=E5=90=84node=E9=97=B4=E7=9A=84=E7=8A=B6=E6=80=81=E4=
+=BF=A1=E6=81=AF
+    peer-eureka-status-refresh-time-interval-ms: 30000
+
+    ##=3D=3D=3D=3D=3D=3D=3D=3D=3D http=E5=8F=82=E6=95=B0 =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+    #server=E5=90=84node=E9=97=B4=E8=BF=9E=E6=8E=A5=E8=B6=85=E6=97=B6=E6=97=
+=B6=E9=95=BF=EF=BC=8C=E9=BB=98=E8=AE=A4200=E6=AF=AB=E7=A7=92=EF=BC=8C200=E6=
+=AF=AB=E7=A7=92=E6=B2=A1=E8=BF=9E=E6=8E=A5=E4=B8=8Aserver=E7=9A=84=E5=85=B6=
+=E4=BB=96=E8=8A=82=E7=82=B9=EF=BC=8C=E5=B0=B1=E4=BC=9A=E8=AE=A4=E4=B8=BA=E8=
+=AF=A5node=E4=B8=8D=E5=8F=AF=E7=94=A8
+    peer-node-connect-timeout-ms: 200
+
+    #=E4=BB=8E=E5=85=B6=E4=BB=96=E8=8A=82=E7=82=B9=E8=AF=BB=E5=8F=96=E6=95=
+=B0=E6=8D=AE=E8=B6=85=E6=97=B6=E6=97=B6=E9=97=B4 =EF=BC=8C=E9=BB=98=E8=AE=
+=A4200=E6=AF=AB=E7=A7=92
+    peer-node-read-timeout-ms: 200
+
+    #server=E7=9A=84=E5=8D=95=E4=B8=AAnode=E8=BF=9E=E6=8E=A5=E6=B1=A0=E6=9C=
+=80=E5=A4=A7=E7=9A=84=E6=B4=BB=E5=8A=A8=E8=BF=9E=E6=8E=A5=E6=95=B0
+    peer-node-total-connections: 1000
+
+    #server=E7=9A=84=E5=8D=95=E4=B8=AAnode=E6=AF=8F=E4=B8=AAhot=E8=83=BD=E4=
+=BD=BF=E7=94=A8=E7=9A=84=E6=9C=80=E5=A4=A7=E8=BF=9E=E6=8E=A5=E6=95=B0
+    peer-node-total-connections-per-host: 500
+
+    #server=E7=9A=84node=E8=BF=9E=E6=8E=A5=E6=B1=A0=E8=BF=9E=E6=8E=A5=E7=9A=
+=84=E7=A9=BA=E9=97=B2=E6=97=B6=E9=97=B4
+    peer-node-connection-idle-timeout-seconds: 30
+
+  instance:
+    registry:
+      ##=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=E5=9F=BA=E6=9C=AC=E5=8F=82=E6=
+=95=B0 =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+      #=E6=8C=87=E5=AE=9A=E6=AF=8F=E5=88=86=E9=92=9F=E9=9C=80=E8=A6=81=E6=
+=94=B6=E5=88=B0=E7=9A=84=E7=BB=AD=E7=BA=A6=E6=AC=A1=E6=95=B0=E5=80=BC=EF=BC=
+=8C=E5=AE=9E=E9=99=85=E8=AF=A5=E5=80=BC=E8=A2=AB=E5=86=99=E6=AD=BB=E4=B8=BA=
+=E5=AE=9E=E4=BE=8B=E5=80=BC*2
+      expected-number-of-clients-sending-renews: 1</pre>=20
+</div>
+</div>
+<h3 id=3D"Eureka=E4=BD=BF=E7=94=A8=E9=85=8D=E7=BD=AE=E5=88=86=E4=BA=AB-=E4=
+=BA=8C.=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=9F=BA=E7=A1=80=E9=85=8D=E7=BD=AE=E9=
+=85=8D=E7=BD=AE">=E4=BA=8C.=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=9F=BA=E7=A1=80=E9=
+=85=8D=E7=BD=AE=E9=85=8D=E7=BD=AE</h3>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: RDark" data-theme=3D"RDark">eureka:
+  client:
+    ##=3D=3D=3D=3D=3D=3D=3D=3D=3D =E5=9F=BA=E6=9C=AC=E5=8F=82=E6=95=B0 =3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    #=E5=91=8A=E7=9F=A5Client=E6=9C=89=E5=93=AA=E4=BA=9Bregion=E5=92=8Cavai=
+lability-zones=EF=BC=8C=E6=94=AF=E6=8C=81=E9=85=8D=E7=BD=AE=E4=BF=AE=E6=94=
+=B9=E8=BF=90=E8=A1=8C=E6=97=B6=E7=94=9F=E6=95=88
+    availability-zones: null
+
+    #=E6=98=AF=E5=90=A6=E8=BF=87=E6=BB=A4=E5=87=BA=E6=B3=A8=E5=86=8C=E5=88=
+=B0eureka=E4=B8=AD=E6=89=80=E6=9C=89InstanceStatus=E4=B8=BAUP=E7=9A=84=E5=
+=AE=9E=E4=BE=8B=EF=BC=8C=E9=BB=98=E8=AE=A4=E4=B8=BAtrue
+    filter-only-up-instances: true
+
+    #=E6=98=AF=E5=90=A6=E5=B0=86=E8=AF=A5=E5=AE=9E=E4=BE=8B=E6=B3=A8=E5=86=
+=8C=E5=88=B0 eureka server=EF=BC=8Ceureka=E6=B3=A8=E5=86=8C=E4=B8=AD=E5=BF=
+=83=E9=85=8D=E7=BD=AE=E4=B8=BAfalse=EF=BC=8C=E4=B8=8D=E6=8A=8A=E8=87=AA=E8=
+=BA=AB=E6=B3=A8=E5=86=8C=E5=88=B0eureka
+    register-with-eureka: true
+
+    #=E6=98=AF=E5=90=A6=E4=BC=98=E5=85=88=E4=BD=BF=E7=94=A8=E4=B8=8E=E8=AF=
+=A5=E5=AE=9E=E4=BE=8B=E5=A4=84=E4=BA=8E=E7=9B=B8=E5=90=8Czone=E7=9A=84Eurek=
+a server ,=E9=BB=98=E8=AE=A4=E4=B8=BAtrue=EF=BC=8C
+    #=E5=8D=B3=E9=BB=98=E8=AE=A4=E4=BC=9A=E4=BD=BF=E7=94=A8=E4=B8=8E=E5=AE=
+=9E=E5=8A=9B=E5=A4=84=E4=BA=8E=E7=9B=B8=E5=90=8Czone=E7=9A=84server=EF=BC=
+=8C=E5=A6=82=E6=9E=9C=E6=89=BE=E4=B8=8D=E5=88=B0=EF=BC=8C=E6=89=8D=E4=BC=9A=
+=E9=BB=98=E8=AE=A4=E4=BD=BF=E7=94=A8defaultZone=E4=B8=AD=E9=85=8D=E7=BD=AE=
+=E7=9A=84
+    prefer-same-zone-eureka: true
+
+    #=E6=98=AF=E5=90=A6=E5=B0=86=E6=9C=AC=E5=9C=B0=E5=AE=9E=E4=BE=8B=E7=8A=
+=B6=E6=80=81=E9=80=9A=E8=BF=87ApplicationInfoManager=E5=AE=9E=E6=97=B6=E5=
+=90=8C=E6=AD=A5=E5=88=B0=E5=88=B0Eureka Server=E4=B8=AD=EF=BC=8C=E9=BB=98=
+=E8=AE=A4=E6=98=AFtrue=EF=BC=8C=E4=B8=80=E8=88=AC=E6=83=85=E5=86=B5=E4=B8=
+=8B=E4=B8=8D=E8=A6=81=E6=94=B9=EF=BC=8C=E9=BB=98=E8=AE=A4=E5=B0=B1=E8=A1=8C
+    on-demand-update-status-change: true
+
+    ##=3D=3D=3D=3D=3D=3D=3D=3D=3D =E5=AE=9A=E6=97=B6=E4=BB=BB=E5=8A=A1=E6=
+=9B=B4=E6=96=B0=E6=B3=A8=E5=86=8C=E8=B7=AF=E7=94=B1=E4=BF=A1=E6=81=AF =3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    #=E6=8C=87=E5=AE=9A=E7=94=A8=E4=BA=8E=E5=88=B7=E6=96=B0=E7=BC=93=E5=AD=
+=98=E7=9A=84CacheRefreshThread=E7=9A=84=E7=BA=BF=E7=A8=8B=E6=B1=A0=E5=A4=A7=
+=E5=B0=8F=EF=BC=8C=E9=BB=98=E8=AE=A4=E6=98=AF2=E4=B8=AA
+    cache-refresh-executor-thread-pool-size: 2
+
+    #=E8=B0=83=E5=BA=A6=E4=BB=BB=E5=8A=A1=E6=89=A7=E8=A1=8C=E8=B6=85=E6=97=
+=B6=E6=97=B6=EF=BC=8C=E4=B8=8B=E6=AC=A1=E5=86=8D=E6=AC=A1=E6=89=A7=E8=A1=8C=
+=E7=9A=84=E5=BB=B6=E6=97=B6=E6=97=B6=E9=97=B4
+    cache-refresh-executor-exponential-back-off-bound: 12
+
+    #=E5=8F=91=E9=80=81=E5=BF=83=E8=B7=B3=E7=BA=BF=E7=A8=8B=E7=9A=84=E7=BA=
+=BF=E7=A8=8B=E6=B1=A0=E5=A4=A7=E5=B0=8F
+    heartbeat-executor-thread-pool-size: 3
+
+    #CacherefreshThread=E7=BA=BF=E7=A8=8B=E7=9A=84=E8=B0=83=E5=BA=A6=E9=A2=
+=91=E7=8E=87=EF=BC=8Ceureka=E9=BB=98=E8=AE=A430=E7=A7=92=E5=88=B7=E6=96=B0=
+=E4=B8=80=E6=AC=A1=E7=BC=93=E5=AD=98
+    registry-fetch-interval-seconds: 30
+
+    #=E5=88=B7=E6=96=B0Eureka Server=E5=9C=B0=E5=9D=80=E7=9A=84=E6=97=B6=E9=
+=97=B4=E9=97=B4=E9=9A=94
+    eureka-service-url-poll-interval-seconds: 300
+
+    #instanceInfoReplication=E5=B0=86=E5=AE=9E=E4=BE=8B=E4=BF=A1=E6=81=AF=
+=E5=8F=98=E6=9B=B4=E5=90=8C=E6=AD=A5=E5=88=B0Eureka Server=E7=9A=84=E5=88=
+=9D=E5=A7=8B=E5=BB=B6=E6=97=B6=E6=97=B6=E9=97=B4=EF=BC=8C=E9=BB=98=E8=AE=A4=
+40=E7=A7=92
+    initial-instance-info-replication-interval-seconds: 40
+
+    #InstanceInfoReplication=E5=B0=86=E5=AE=9E=E4=BE=8B=E4=BF=A1=E6=81=AF=
+=E5=8F=98=E6=9B=B4=E5=90=8C=E6=AD=A5=E5=88=B0Eureka Server=E7=9A=84=E6=97=
+=B6=E9=97=B4=E9=97=B4=E9=9A=94
+    instance-info-replication-interval-seconds: 30
+
+
+
+    ##=3D=3D=3D=3D=3D=3D=3D=3D=3D http=E5=8F=82=E6=95=B0 =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+    #=E8=BF=9E=E6=8E=A5server=E7=9A=84=E8=B6=85=E6=97=B6=E6=97=B6=E9=97=B4 =
+=E9=BB=98=E8=AE=A45=E7=A7=92
+    eureka-server-connect-timeout-seconds: 5
+
+    #client =E4=BB=8Eserver=E8=AF=BB=E5=8F=96=E6=95=B0=E6=8D=AE=E8=B6=85=E6=
+=97=B6=E6=97=B6=E9=97=B4=EF=BC=8C=E9=BB=98=E8=AE=A48=E7=A7=92
+    eureka-server-read-timeout-seconds: 8
+
+    #=E8=BF=9E=E6=8E=A5=E6=B1=A0=E6=9C=80=E5=A4=A7=E7=9A=84=E6=B4=BB=E5=8A=
+=A8=E9=93=BE=E6=8E=A5=E6=95=B0 =E6=9C=80=E5=A4=A7=E9=BB=98=E8=AE=A4200=E4=
+=B8=AA=E8=BF=9E=E6=8E=A5=E6=95=B0
+    eureka-server-total-connections: 200
+
+    #=E6=AF=8F=E4=B8=AAhost=E8=83=BD=E4=BD=BF=E7=94=A8=E7=9A=84=E6=9C=80=E5=
+=A4=A7=E8=BF=9E=E6=8E=A5=E6=95=B0 =EF=BC=8C=E9=BB=98=E8=AE=A4=E6=AF=8F=E4=
+=B8=AA=E4=B8=BB=E6=9C=BA=E6=9C=80=E5=A4=9A=E5=8F=AA=E8=83=BD=E4=BD=BF=E7=94=
+=A850=E4=B8=AA=E8=BF=9E=E6=8E=A5
+    eureka-server-total-connections-per-host: 50
+
+    #=E8=BF=9E=E6=8E=A5=E6=B1=A0=E4=B8=AD=E8=BF=9E=E6=8E=A5=E7=9A=84=E7=A9=
+=BA=E9=97=B2=E6=97=B6=E9=97=B4
+    eureka-connection-idle-timeout-seconds: 30
+
+  instance:
+    ##=3D=3D=3D=3D=3D=3D=3D=3D=3D =E5=9F=BA=E6=9C=AC=E5=8F=82=E6=95=B0 =3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    #=E6=8C=87=E5=AE=9A=E8=AF=A5=E5=BA=94=E7=94=A8=E5=AE=9E=E4=BE=8B=E7=9A=
+=84=E5=85=83=E6=95=B0=E6=8D=AE=E4=BF=A1=E6=81=AF=EF=BC=8C=E4=B9=9F=E5=8F=AF=
+=E7=94=A8=E4=BA=8E=E6=89=A9=E5=B1=95=E4=BF=A1=E6=81=AF
+    metadata-map:
+    #=E6=98=AF=E5=90=A6=E4=BC=98=E5=85=88=E4=BD=BF=E7=94=A8IP=E5=9C=B0=E5=
+=9D=80=E6=9D=A5=E4=BB=A3=E6=9B=BFhost name=E4=BD=9C=E4=B8=BA=E5=B8=82=E9=87=
+=8C=E7=9A=84hostname=E5=AD=97=E6=AE=B5=E5=80=BC=EF=BC=8C=E9=BB=98=E8=AE=A4=
+=E6=98=AFfalse
+    prefer-ip-address: false
+    #=E6=8C=87=E5=AE=9AEureka Client=E9=97=B4=E9=9A=94=E5=A4=9A=E4=B9=85=E5=
+=90=91Eureka Server=E5=8F=91=E9=80=81=E5=BF=83=E8=B7=B3=E6=9D=A5=E5=91=8A=
+=E7=9F=A5Eureka Server=E8=AF=A5=E5=AE=9E=E4=BE=8B=E8=BF=98=E5=AD=98=E6=B4=
+=BB=EF=BC=8C=E9=BB=98=E8=AE=A4=E6=98=AF90=E7=A7=92
+    lease-expiration-duration-in-seconds: 30
+
+
+    ##=3D=3D=3D=3D=3D=3D=3D=3D =E5=AE=9A=E6=97=B6=E4=BB=BB=E5=8A=A1=E5=8F=
+=82=E6=95=B0 =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    #Eureka Client=E5=90=91Server=E5=8F=91=E9=80=81=E5=BF=83=E8=B7=B3=E7=9A=
+=84=E6=97=B6=E9=97=B4=E9=97=B4=E9=9A=94=EF=BC=8C=E9=BB=98=E8=AE=A4CLient=E9=
+=9A=9430=E7=A7=92=E5=B0=B1=E4=BC=9A=E5=90=91Server=E5=8F=91=E9=80=81=E4=B8=
+=80=E6=AC=A1=E5=BF=83=E8=B7=B3
+    lease-renewal-interval-in-seconds: 30</pre>=20
+</div>
+</div>
+<h3 id=3D"Eureka=E4=BD=BF=E7=94=A8=E9=85=8D=E7=BD=AE=E5=88=86=E4=BA=AB-=E4=
+=B8=89.=E5=B8=B8=E8=A7=81=E9=97=AE=E9=A2=98=E8=A7=A3=E5=86=B3=E8=B0=83=E4=
+=BC=98">=E4=B8=89.=E5=B8=B8=E8=A7=81=E9=97=AE=E9=A2=98=E8=A7=A3=E5=86=B3=E8=
+=B0=83=E4=BC=98</h3>
+<ul style=3D"list-style-type: square;">
+<li>=E9=97=AE=E9=A2=98=E4=B8=80=EF=BC=9A<span style=3D"color: rgb(77,77,77)=
+;">=E6=9C=8D=E5=8A=A1=E4=B8=8B=E7=BA=BF=E4=B8=BA=E4=BB=80=E4=B9=88=E8=BF=98=
+=E8=83=BD=E8=B0=83=E9=80=9A=E6=8E=A5=E5=8F=A3</span></li>
+<li>=E9=97=AE=E9=A2=98=E4=BA=8C=EF=BC=9A<span style=3D"color: rgb(77,77,77)=
+;">=E6=9C=8D=E5=8A=A1=E6=B3=A8=E5=86=8C=E4=BA=86Client=E4=B8=8D=E8=83=BD=E5=
+=8F=8A=E6=97=B6=E8=8E=B7=E5=8F=96=E5=88=B0=E6=9C=80=E6=96=B0=E7=9A=84=E6=B3=
+=A8=E5=86=8C</span></li>
+<li><span style=3D"color: rgb(77,77,77);">=E9=97=AE=E9=A2=98=E4=B8=89=EF=BC=
+=9A=E8=87=AA=E6=88=91=E4=BF=9D=E6=8A=A4=E6=9C=BA=E5=88=B6</span></li>
+</ul>
+<p><span style=3D"color: rgb(77,77,77);">Eureka=E4=B8=8D=E6=98=AF=E5=BC=BA=
+=E4=B8=80=E8=87=B4=E6=80=A7=E7=9A=84=EF=BC=8C=E5=9B=A0=E6=AD=A4registry=E4=
+=B8=AD=E4=BC=9A=E6=9C=89=E8=BF=87=E6=9C=9F=E7=9A=84=E5=AE=9E=E4=BE=8B=E4=BF=
+=A1=E6=81=AF=EF=BC=8C=E5=AE=9E=E4=BE=8B=E8=BF=87=E6=9C=9F=E5=8E=9F=E5=9B=A0=
+=E5=A6=82=E4=B8=8B:</span></p>
+<p><span style=3D"color: rgb(77,77,77);">1=EF=BC=89=E5=BA=94=E7=94=A8=E5=AE=
+=9E=E4=BE=8B=E5=BC=82=E5=B8=B8=E6=8C=82=E6=8E=89=EF=BC=8C=E5=9C=A8=E6=8C=82=
+=E6=8E=89=E4=B9=8B=E5=89=8D=E6=B2=A1=E6=9D=A5=E5=BE=97=E5=8F=8A=E9=80=9A=E7=
+=9F=A5Eureka Server=E8=A6=81=E4=B8=8B=E7=BA=BF=E6=8E=89=E8=87=AA=E5=B7=B1=
+=E8=BF=99=E4=B8=AA=E5=AE=9E=E4=BE=8B=E3=80=82=E8=BF=99=E4=B8=AA=E8=A6=81Eur=
+eka=E7=9A=84 EvicitionTask=E5=8E=BB=E5=89=94=E9=99=A4=E4=BA=86<br>2=EF=BC=
+=89 =E5=BA=94=E7=94=A8=E5=AE=9E=E4=BE=8B=E4=B8=8B=E7=BA=BF=E6=97=B6=E6=9C=
+=89=E9=80=9A=E7=9F=A5Server=E4=B8=8B=E7=BA=BF=E8=87=AA=E5=B7=B1=E8=BF=99=E4=
+=B8=AA=E5=AE=9E=E4=BE=8B=EF=BC=8C=E4=BD=86=E6=98=AF=E7=94=B1=E4=BA=8EServer=
+ =E7=9A=84API=E6=9C=89=E5=90=AF=E7=94=A8readOnlyCache=EF=BC=8C=E6=89=80=E4=
+=BB=A5=E9=9C=80=E8=A6=81=E7=AD=89 =E5=BE=85=E7=BC=93=E5=AD=98=E8=BF=87=E6=
+=9C=9F=E6=89=8D=E8=83=BD=E6=9B=B4=E6=96=B0<br>3=EF=BC=89 =E7=94=B1=E4=BA=8E=
+Server=E5=BC=80=E5=90=AF=E4=BA=86=E8=87=AA=E6=88=91=E4=BF=9D=E6=8A=A4=E6=9C=
+=BA=E5=88=B6=EF=BC=8C=E5=AF=BC=E8=87=B4registry=E4=B8=8D=E8=83=BD=E5=9B=A0=
+=E8=BF=87=E6=9C=9F=E8=80=8C=E5=89=94=E9=99=A4</span></p>
+<p><br></p>
+<p>=E8=A7=A3=E5=86=B3=E5=8A=9E=E6=B3=95-&gt; =E9=97=AE=E9=A2=98=E4=B8=80=EF=
+=BC=9AClient=E4=B8=8B=E7=BA=BF=E6=B2=A1=E6=9D=A5=E5=BE=97=E5=8F=8A=E9=80=9A=
+=E7=9F=A5server=EF=BC=8C=E5=8F=AF=E4=BB=A5=E8=B0=83=E6=95=B4EvictionTask=E7=
+=9A=84=E8=B0=83=E5=BA=A6=E9=A2=91=E7=8E=87=EF=BC=8C=E5=8A=A0=E5=BF=AB=E5=89=
+=94=E9=99=A4=E8=BF=87=E6=9C=9F=E5=AE=9E=E4=BE=8B=E7=9A=84=E9=A2=91=E7=8E=87=
+</p>
+<p>=E8=A7=A3=E5=86=B3=E5=8A=9E=E6=B3=95-&gt; =E9=97=AE=E9=A2=98=E4=B8=80=EF=
+=BC=9A=E9=92=88=E5=AF=B9responseCache=E9=97=AE=E9=A2=98=EF=BC=8C=E5=8F=AF=
+=E4=BB=A5=E6=A0=B9=E6=8D=AE=E5=AE=9E=E9=99=85=E6=83=85=E5=86=B5=E5=85=B3=E6=
+=8E=89readOnlyCacheMap=EF=BC=8C=E6=88=96=E8=80=85=E8=B0=83=E6=95=B4readWrit=
+eCacheMap=E7=9A=84=E8=BF=87=E6=9C=9F=E6=97=B6=E9=97=B4=EF=BC=8C=E7=BC=A9=E7=
+=9F=AD=E7=82=B9cache=E8=BF=87=E6=9C=9F=E6=97=B6=E9=97=B4</p>
+<p>=E8=A7=A3=E5=86=B3=E5=8A=9E=E6=B3=95-&gt;&nbsp;=E9=97=AE=E9=A2=98=E4=B8=
+=89&nbsp; &nbsp;=EF=BC=9A=E9=92=88=E5=AF=B9=E8=87=AA=E6=88=91=E4=BF=9D=E6=
+=8A=A4=E6=9C=BA=E5=88=B6=EF=BC=8C=E6=B5=8B=E8=AF=95=E7=8E=AF=E5=A2=83=E5=8F=
+=AF=E4=BB=A5=E9=80=82=E5=BD=93=E9=80=89=E6=8B=A9=E5=85=B3=E9=97=AD=E8=87=AA=
+=E6=88=91=E4=BF=9D=E6=8A=A4=E6=9C=BA=E5=88=B6=E3=80=82=E6=9C=89=E6=97=B6=E5=
+=80=99=E7=94=B1=E4=BA=8E=E7=BD=91=E7=BB=9C=E9=97=AE=E9=A2=98=EF=BC=8CClient=
+=E7=9A=84=E7=BB=AD=E7=BA=A6=E6=9C=AA=E8=83=BD=E5=A6=82=E6=9C=9F=E4=BF=9D=E6=
+=8C=81=E4=BD=86=E6=98=AF=E6=9C=8D=E5=8A=A1=E6=9C=AC=E8=BA=AB=E6=98=AF=E5=81=
+=A5=E5=BA=B7=EF=BC=8C=E8=BF=99=E4=B8=AA=E6=97=B6=E5=80=99=E6=8C=89=E7=85=A7=
+=E7=A7=9F=E7=BA=A6=E6=9C=BA=E5=88=B6=E5=89=94=E9=99=A4=E7=9A=84=E8=AF=9D=E4=
+=BC=9A=E9=80=A0=E6=88=90=E8=AF=AF=E5=88=A4=E3=80=82=E5=8F=AF=E4=BB=A5=E9=80=
+=89=E6=8B=A9=E9=80=82=E5=BD=93=E7=9A=84=E8=B0=83=E4=BD=8E=E8=A7=A6=E5=8F=91=
+=E8=87=AA=E6=88=91=E4=BF=9D=E6=8A=A4=E6=9C=BA=E5=88=B6=E7=9A=84=E9=98=88=E5=
+=80=BC=EF=BC=8C=E6=88=96=E8=80=85=E8=B0=83=E4=BD=8Eclient=E5=90=91Server=E5=
+=8F=91=E9=80=81=E5=BF=83=E8=B7=B3=E7=9A=84=E6=97=B6=E9=97=B4=E9=97=B4=E9=9A=
+=94</p>
+<p>=E8=A7=A3=E5=86=B3=E5=8A=9E=E6=B3=95-&gt;&nbsp;=E9=97=AE=E9=A2=98=E4=BA=
+=8C=EF=BC=9A=E9=92=88=E5=AF=B9=E6=9C=8D=E5=8A=A1=E4=B8=8A=E7=BA=BF=E4=BA=86=
+=EF=BC=8CClient=E4=B8=8D=E8=83=BD=E5=8F=8A=E6=97=B6=E8=8E=B7=E5=8F=96=E5=88=
+=B0=EF=BC=8C=E5=8F=AF=E4=BB=A5=E9=80=82=E5=BD=93=E6=8F=90=E9=AB=98Client=E8=
+=8E=B7=E5=8F=96Server=E6=B3=A8=E5=86=8C=E4=BF=A1=E6=81=AF=E7=9A=84=E9=A2=91=
+=E7=8E=87=EF=BC=8C=E5=A6=82=E5=B0=8630=E7=A7=92=E6=94=B9=E4=B8=BA5=E7=A7=92=
+</p>
+    </div>
+</body>
+</html>
+------=_Part_580_1361886239.1570758030622--

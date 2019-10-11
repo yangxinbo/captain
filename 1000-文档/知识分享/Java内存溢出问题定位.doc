@@ -1,0 +1,333 @@
+Message-ID: <528015295.585.1570758041017.JavaMail.confluence1@bogon>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_584_778637379.1570758041014"
+
+------=_Part_584_778637379.1570758041014
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Java=E5=86=85=E5=AD=98=E6=BA=A2=E5=87=BA=E9=97=AE=E9=A2=98=E5=AE=
+=9A=E4=BD=8D</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Java=E5=86=85=E5=AD=98=E6=BA=A2=E5=87=BA=E9=97=AE=E9=A2=98=E5=AE=9A=
+=E4=BD=8D</h1>
+    <div class=3D"Section1">
+        <h2 style=3D"" id=3D"Java=E5=86=85=E5=AD=98=E6=BA=A2=E5=87=BA=E9=97=
+=AE=E9=A2=98=E5=AE=9A=E4=BD=8D-=E4=B8=80=E3=80=81=E5=86=85=E5=AD=98=E6=BA=
+=A2=E5=87=BA=E9=97=AE=E9=A2=98=E5=88=86=E7=B1=BB">=E4=B8=80=E3=80=81=E5=86=
+=85=E5=AD=98=E6=BA=A2=E5=87=BA=E9=97=AE=E9=A2=98=E5=88=86=E7=B1=BB</h2>
+<ul>
+<li>=E7=9E=AC=E6=97=B6=E6=B5=81=E9=87=8F=E8=BF=87=E5=A4=A7=E9=80=A0=E6=88=
+=90=E7=9A=84=E5=88=9B=E5=BB=BA=E5=A4=A7=E9=87=8F=E5=AF=B9=E8=B1=A1</li>
+<li>=E5=86=85=E5=AD=98=E6=B3=84=E6=BC=8F=E5=AF=BC=E8=87=B4=E7=9A=84=E5=86=
+=85=E5=AD=98=E6=BA=A2=E5=87=BA=EF=BC=8C=E4=B8=80=E8=88=AC=E5=B0=B1=E6=98=AF=
+=E7=A8=8B=E5=BA=8F=E7=BC=96=E7=A0=81=E7=9A=84BUG=E5=BC=95=E8=B5=B7=E7=9A=84=
+</li>
+</ul>
+<p style=3D""><br></p>
+<p style=3D"">=E4=BA=8C=E3=80=81=E5=86=85=E5=AD=98=E6=B3=84=E6=BC=8F=E9=97=
+=AE=E9=A2=98=E5=88=86=E6=9E=90</p>
+<ul>
+<li style=3D"">step1: =E6=94=B6=E9=9B=86=E5=86=85=E5=AD=98=E6=B3=84=E6=BC=
+=8F=E7=9A=84=E5=A0=86=E5=86=85=E5=AD=98=E5=BC=82=E5=B8=B8=E6=97=A5=E5=BF=97=
+</li>
+</ul>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;&gt; =E6=B7=BB=E5=8A=A0HeapDumpOnOutOfMemoryE=
+rror =E5=92=8C HeapDumpPath=E4=B8=A4=E4=B8=AA=E5=8F=82=E6=95=B0=E5=BC=80=E5=
+=90=AF=E5=A0=86=E5=86=85=E5=AD=98=E5=BC=82=E5=B8=B8=E6=97=A5=E5=BF=97=EF=BC=
+=9A<span style=3D"color: rgb(34,34,34);">java -jar&nbsp;<strong> -XX:+HeapD=
+umpOnOutOfMemoryError -XX:HeapDumpPath=3D/tmp/heapdump.hprof</strong> <stro=
+ng>-Xms4g -Xmx4g</strong> -XX:+PrintGCTimeStamps -XX:+PrintGCDetails <a rel=
+=3D"nofollow">-Xloggc:/tmp/heapTest.log</a>&nbsp; sinaif-XX .jar</span></p>
+<ul>
+<li><span style=3D"color: rgb(34,34,34);">step2: =E9=87=87=E7=94=A8=E7=B3=
+=BB=E7=BB=9FLinux=E5=91=BD=E4=BB=A4top =E6=9F=A5=E7=9C=8BJava=E8=BF=9B=E7=
+=A8=8B=E5=86=85=E5=AD=98=E4=BD=BF=E7=94=A8=E6=83=85=E5=86=B5=EF=BC=9B=E7=9C=
+=8B=E4=B8=8B=E8=BF=99=E4=B8=AA=E5=86=85=E5=AD=98=E5=8D=A0=E7=94=A8=E6=83=85=
+=E5=86=B5=EF=BC=9B=E4=B8=BE=E4=BE=8B=EF=BC=9A=E7=B3=BB=E7=BB=9F=E5=86=85=E5=
+=AD=98=E4=B8=BA8G,=E5=90=AF=E5=8A=A8=E5=A0=86=E5=86=85=E5=AD=98=E5=88=86=E9=
+=85=8D4G, =E9=80=9A=E8=BF=87top=E5=91=BD=E4=BB=A4=E7=9C=8B=E4=B8=8BJava=E8=
+=BF=9B=E7=A8=8B=E5=86=85=E5=AD=98=E5=8D=A0=E7=94=A8=E6=98=AF=E5=90=A6=E8=B6=
+=85=E8=BF=8750%</span></li>
+<li><span style=3D"color: rgb(34,34,34);">step3:=E5=86=8D=E9=80=9A=E8=BF=87=
+ top -Hp pid =E6=9F=A5=E7=9C=8B=E5=85=B7=E4=BD=93=E7=BA=BF=E7=A8=8B=E5=8D=
+=A0=E7=94=A8=E7=B3=BB=E7=BB=9F=E8=B5=84=E6=BA=90</span></li>
+<li><span style=3D"color: rgb(34,34,34);"><span style=3D"color: rgb(34,34,3=
+4);">step4: =E9=80=9A=E8=BF=87</span></span>jstack pid =E6=9F=A5=E7=9C=8B=
+=E5=85=B7=E4=BD=93=E7=BA=BF=E7=A8=8B=E7=9A=84=E5=A0=86=E6=A0=88=E4=BF=A1=E6=
+=81=AF=EF=BC=8C=E6=8E=92=E9=99=A4=E6=98=AF=E5=90=A6=E6=9C=89=E6=AD=BB=E9=94=
+=81=E6=88=96=E8=80=85I/O=E9=98=BB=E5=A1=9E=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=
+=88=E6=A3=80=E6=9F=A5CPU=E7=9A=84=E4=BD=BF=E7=94=A8=E7=8E=87=E5=92=8C=E8=B4=
+=9F=E8=BD=BD=E6=83=85=E5=86=B5=EF=BC=89</li>
+<li>step5:<span style=3D"color: rgb(34,34,34);">=E9=80=9A=E8=BF=87 jmap -he=
+ap pid&nbsp; =E6=9F=A5=E7=9C=8B=E5=A0=86=E5=86=85=E5=AD=98=E7=9A=84=E4=BD=
+=BF=E7=94=A8=E6=83=85=E5=86=B5=EF=BC=8C=E7=9C=8B=E4=B8=8B=E8=80=81=E5=B9=B4=
+=E4=BB=A3=E7=9A=84=E5=86=85=E5=AD=98=E6=98=AF=E5=90=A6=E6=B2=A1=E6=9C=89=E5=
+=8F=AF=E5=88=86=E9=85=8D=E7=A9=BA=E9=97=B4</span></li>
+<li><span style=3D"color: rgb(34,34,34);">step6: =E5=9F=BA=E6=9C=AC=E5=AE=
+=9A=E4=BD=8D=E5=87=BA=E5=86=85=E5=AD=98=E6=B3=84=E6=BC=8F=E5=90=8E=EF=BC=8C=
+=E5=85=B7=E4=BD=93=E5=88=86=E6=9E=90=E7=9C=8B=E6=98=AF=E4=BB=80=E4=B9=88=E5=
+=AF=B9=E8=B1=A1=E5=BC=95=E8=B5=B7=E7=9A=84=EF=BC=9B</span></li>
+<li><span style=3D"color: rgb(34,34,34);"><span style=3D"color: rgb(34,34,3=
+4);">step7:</span><span style=3D"color: rgb(79,79,79);">jmap -histo:live pi=
+d =E6=9F=A5=E7=9C=8B=E5=AD=98=E6=B4=BB=E5=AF=B9=E8=B1=A1=E6=95=B0=E9=87=8F=
+=EF=BC=8C=E6=89=BE=E5=87=BA=E6=9C=80=E5=A4=A7=E7=9A=845=E4=B8=AA=E5=AF=B9=
+=E8=B1=A1=E8=BF=9B=E8=A1=8C=E5=88=86=E6=9E=90</span></span></li>
+<li><span style=3D"color: rgb(34,34,34);"><span style=3D"color: rgb(79,79,7=
+9);">step8: =E6=8A=8Astep1 =E8=AE=BE=E7=BD=AE=E7=9A=84=E5=A0=86=E5=86=85=E5=
+=AD=98=E5=BC=82=E5=B8=B8=E6=96=87=E4=BB=B6=EF=BC=9A<strong>heapdump.hprof&n=
+bsp;&nbsp;</strong>=E4=B8=8B=E8=BD=BD=E6=9C=AC=E5=9C=B0=E5=AF=BC=E5=85=A5=
+=E5=88=B0Eclipse MAT =E8=BF=9B=E8=A1=8C=E5=88=86=E6=9E=90</span></span></li=
+>
+<li><span style=3D"color: rgb(34,34,34);"><span style=3D"color: rgb(79,79,7=
+9);">step9:=E5=AF=BC=E5=85=A5MAT=E4=B8=80=E8=88=AC=E4=BC=9A=E6=9C=89=E6=8F=
+=90=E7=A4=BA=E7=9A=84=EF=BC=9A</span></span></li>
+</ul>
+<p><br></p>
+<p style=3D""><span class=3D"confluence-embedded-file-wrapper"><img class=
+=3D"confluence-embedded-image confluence-external-resource" src=3D"https://=
+static001.geekbang.org/resource/image/4c/63/4ceb91714afa77b54d1112a0e1f0c86=
+3.jpg" data-image-src=3D"https://static001.geekbang.org/resource/image/4c/6=
+3/4ceb91714afa77b54d1112a0e1f0c863.jpg"></span></p>
+<p style=3D""><span style=3D"color: rgb(34,34,34);">=E7=82=B9=E5=87=BB=E8=
+=BF=9B=E5=85=A5=E5=88=B0 Histogram =E9=A1=B5=E9=9D=A2=EF=BC=8C=E5=8F=AF=E4=
+=BB=A5=E6=9F=A5=E7=9C=8B=E5=88=B0=E5=AF=B9=E8=B1=A1=E6=95=B0=E9=87=8F=E6=8E=
+=92=E5=BA=8F=EF=BC=8C=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=88=B0=
+ Byte[] =E6=95=B0=E7=BB=84=E6=8E=92=E5=9C=A8=E4=BA=86=E7=AC=AC=E4=B8=80=E4=
+=BD=8D=EF=BC=8C=E9=80=89=E4=B8=AD=E5=AF=B9=E8=B1=A1=E5=90=8E=E5=8F=B3=E5=87=
+=BB=E9=80=89=E6=8B=A9 with incomming reference =E5=8A=9F=E8=83=BD=EF=BC=8C=
+=E5=8F=AF=E4=BB=A5=E6=9F=A5=E7=9C=8B=E5=88=B0=E5=85=B7=E4=BD=93=E5=93=AA=E4=
+=B8=AA=E5=AF=B9=E8=B1=A1=E5=BC=95=E7=94=A8=E4=BA=86=E8=BF=99=E4=B8=AA=E5=AF=
+=B9=E8=B1=A1=EF=BC=9B</span></p>
+<ul>
+<li style=3D""><span style=3D"color: rgb(34,34,34);"><span style=3D"color: =
+rgb(79,79,79);">step10:=E6=89=BE=E5=88=B0=E4=BB=A3=E7=A0=81=E5=BC=95=E7=94=
+=A8=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E8=BF=9B=E8=A1=8C=E4=BC=98=E5=8C=96=
+</span></span></li>
+</ul>
+<p style=3D""><br></p>
+    </div>
+</body>
+</html>
+------=_Part_584_778637379.1570758041014--
